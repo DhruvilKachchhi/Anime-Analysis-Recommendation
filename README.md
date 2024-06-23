@@ -4,8 +4,8 @@
 This system is designed to analyze and recommend anime based on user preferences. It utilizes a combination of cosine similarity and TF-IDF vectorization to generate personalized recommendations.
 
 ### Files
-Streamlit.py: This file contains the code for the Streamlit app that allows users to input their preferences and receive recommendations.
-Anime Analysis.ipynb: This file contains the code for the data analysis and feature engineering steps used to prepare the data for the recommendation system.
+#### Streamlit.py: This file contains the code for the Streamlit app that allows users to input their preferences and receive recommendations.
+#### Anime Analysis.ipynb: This file contains the code for the data analysis and feature engineering steps used to prepare the data for the recommendation system.
 
 ### Model
 The model used in this system is based on cosine similarity and TF-IDF vectorization. Here's a brief overview of how it works:
